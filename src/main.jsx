@@ -20,10 +20,7 @@ const router = createBrowserRouter([
     path:"projetos",
     element: <Projetos  />
   },
-  {
-    path:"*",
-    element: <Page_erro/>
-  }
+  
   
 ])
 
