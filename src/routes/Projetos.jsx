@@ -89,7 +89,7 @@ export const Projetos = () => {
                   </h1>
                   <img
                     className="items-center mx-4 rounded-md"
-                    src="./../../public/landingPage.png"
+                    src="https://cdn.discordapp.com/attachments/1172335701874974822/1279395153483796541/image.png?ex=66d44916&is=66d2f796&hm=f199be2fc53b5cb4d9c9c1c9768cfe61341386c94694e86be08bb526d00241d1&"
                     alt=""
                   />
                   <p className="text-neutral-950 font-lexend-light text-sm dark:text-neutral-100">uma pagina virtual para compras e encomendas</p>
@@ -112,7 +112,7 @@ export const Projetos = () => {
                   </h1>
                   <img
                     className="items-center mx-4 rounded-md"
-                    src="./../../public/bio.png"
+                    src="https://cdn.discordapp.com/attachments/1172335701874974822/1279395059074076763/image.png?ex=66d44900&is=66d2f780&hm=40de270154ee99b70d316439d9fa6c3632e4fe690581fb48f2cc9ebdfb0a4cf9&"
                     alt=""
                   />
                   <p className="text-neutral-950 font-lexend-light text-sm dark:text-neutral-100">Uma bio de redes sociais podendo conter vários links e informações</p>
@@ -145,7 +145,7 @@ export const Projetos = () => {
                   </h1>
                   <img
                     className="items-center mx-4 rounded-md"
-                    src="./../../public/Login.png"
+                    src="https://media.discordapp.net/attachments/1172335701874974822/1279395168134365297/image.png?ex=66d4491a&is=66d2f79a&hm=ac89ef12d46c14fd6fb4fff66fc8455ba49ee33bc02d285769c35a611a7446c8&=&format=webp&quality=lossless&width=550&height=322"
                     alt=""
                   />
                   <p className="text-neutral-950 font-lexend-light text-sm dark:text-neutral-100">Tela de Login ultilizada em sites</p>
@@ -168,7 +168,7 @@ export const Projetos = () => {
                   </h1>
                   <img
                     className="items-center mx-4 rounded-md"
-                    src="./../../public/cadastro.png"
+                    src="https://cdn.discordapp.com/attachments/1172335701874974822/1279395100916449311/image.png?ex=66d4490a&is=66d2f78a&hm=0f366e4fafd2e82e892d76bfe454b46dcc3ffc6f42d6382643e35ebead110436&"
                     alt=""
                   />
                   <p className="text-neutral-950 font-lexend-light text-sm dark:text-neutral-100">Tela de Cadastro ultilizada em sites</p>
@@ -201,7 +201,7 @@ export const Projetos = () => {
                   </h1>
                   <img
                     className="items-center mx-4 rounded-md"
-                    src="./../../public/buscadordecep.png"
+                    src="https://cdn.discordapp.com/attachments/1172335701874974822/1279395078430789632/image.png?ex=66d44904&is=66d2f784&hm=af2ea1ccf64c663c8cc03905839ccec32224a2d6575b5f184c25da98087b1c1a&"
                     alt=""
                   />
                   <p className="text-neutral-950 font-lexend-light text-sm dark:text-neutral-100">Buscador de cep consulte seu endereço pelo seu cep de qualquer lugar</p>
@@ -224,7 +224,7 @@ export const Projetos = () => {
                   </h1>
                   <img
                     className="items-center mx-4 rounded-md"
-                    src="./../../public/portifolio.png"
+                    src="https://cdn.discordapp.com/attachments/1172335701874974822/1279395186790764604/image.png?ex=66d4491e&is=66d2f79e&hm=23bc63d7d7294c410107f9a1f918340477564ebefee5e2d9defdcc807d2f20fb&"
                     alt=""
                   />
                   <p className="text-neutral-950 font-lexend-light text-sm dark:text-neutral-100">Uma página onde mostramos quem somos e nossos aprendizados</p>

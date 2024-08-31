@@ -18,7 +18,7 @@ export const Home = () => {
         <div className="lg:mr-28 xl:mr-0 w-3/12 py-12">
           <img
             className=" hidden lg:flex xl:-ml-36 rounded-l-full rounded-r-full"
-            src="https://cdn.discordapp.com/attachments/1172335701874974822/1279393403779416125/image.png?ex=66d44775&is=66d2f5f5&hm=026279af326baa0bd3f13fca2a4cc54220b7239010507b37083467bdc90a1f6b&"
+            src="https://cdn.discordapp.com/attachments/1172335701874974822/1279395135964319785/image.png?ex=66d44912&is=66d2f792&hm=e7c5be8e601f9a84f3fef2ad13e5eba83bf8e77701b6fd8678c532fe64741675&"
             alt=""
           />
         </div>
