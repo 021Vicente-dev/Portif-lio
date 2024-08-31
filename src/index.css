@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+   font-family: "Lexend-black";
+   src: url("./fonts/Lexend/Lexend-Black.ttf") format("opentype");
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: "Lexend-bold";
+   src: url("./fonts/Lexend/Lexend-Bold.ttf") format("opentype");
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: "Lexend-extrabold";
+   src: url("./fonts/Lexend/Lexend-ExtraBold.ttf") format("opentype");
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: "Lexend-extralight";
+   src: url("./fonts/Lexend/Lexend-ExtraLight.ttf") format("opentype");
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: "Lexend-light";
+   src: url("./fonts/Lexend/Lexend-Light.ttf") format("opentype");
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: "Lexend-medium";
+   src: url("./fonts/Lexend/Lexend-Medium.ttf") format("opentype");
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: "Lexend-regular";
+   src: url("./fonts/Lexend/Lexend-Regular.ttf") format("opentype");
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: "Lexend-semibold";
+   src: url("./fonts/Lexend/Lexend-SemiBold.ttf") format("opentype");
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: "Lexend-thin";
+   src: url("./fonts/Lexend/Lexend-Thin.ttf") format("opentype");
+   font-style: normal;
+   font-display: swap;
+}
