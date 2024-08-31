@@ -19,9 +19,7 @@ const router = createBrowserRouter([
   {
     path:"projetos",
     element: <Projetos  />
-  },
-  
-  
+  }
 ])
 
 createRoot(document.getElementById('root')).render(
