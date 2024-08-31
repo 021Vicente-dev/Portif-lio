@@ -75,7 +75,7 @@ export const Sobre = () => {
           <div className="">
             <p className="text-center py-8 px-5 border-[1px] border-neutral-400 rounded-2xl text-sm font-mono text-neutral-900 dark:text-neutral-50">
               Olá, meu nome é <strong>Ryan Vicente</strong> conhecido como
-              <strong>Vicente.Dev</strong>, tenho 16 anos e sou um entusiasta e
+              <strong> Vicente.Dev</strong>, tenho 16 anos e sou um entusiasta e
               profissional em desenvolvimento web, com especialização também em
               aplicativos mobile. Desde criança, a tecnologia sempre foi uma das
               minhas maiores paixões. Minha curiosidade e vontade de entender
