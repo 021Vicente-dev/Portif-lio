@@ -93,7 +93,7 @@ export const Projetos = () => {
                     alt=""
                   />
                   <p className="text-neutral-950 pb-5 font-lexend-light text-sm dark:text-neutral-100">uma pagina virtual para compras e encomendas</p>
-                  <div className="flex md:gap-5 gap-2">
+                  <div className="flex md:gap-5 gap-2 max-[414px]:mt-[1.3rem] max-[390px]:mt-0">
                     <button className="md:w-[13rem] w-[9rem] py-2 text-xs md:text-base px-[0.5rem] border-[1px] rounded-md border-green-500 text-green-500">
                       <a href="https://021vicente-dev.github.io/Bio/" target="_blank">
                         <i className="bi bi-eye pr-1"></i>Visualizar
@@ -149,7 +149,7 @@ export const Projetos = () => {
                     alt=""
                   />
                   <p className="text-neutral-950 font-lexend-light text-sm dark:text-neutral-100">Tela de Login ultilizada em sites</p>
-                  <div className="flex md:gap-5 gap-2">
+                  <div className="flex md:gap-5 gap-2 max-[390px]:mt-[1.9rem]">
                     <button className="md:w-[13rem] w-[9rem] py-2 text-xs md:text-base px-[0.5rem] border-[1px] rounded-md border-green-500 text-green-500">
                       <a href="https://021vicente-dev.github.io/Bio/" target="_blank">
                         <i className="bi bi-eye pr-1"></i>Visualizar
@@ -228,7 +228,7 @@ export const Projetos = () => {
                     alt=""
                   />
                   <p className="text-neutral-950 font-lexend-light text-sm dark:text-neutral-100">Uma página onde mostramos quem somos e nossos aprendizados</p>
-                  <div className="flex md:gap-5 gap-2">
+                  <div className="flex md:gap-5 gap-2 max-[390px]:mt-[1.9rem] max-[414px]:mt-[1.4rem]">
                     <button className="md:w-[13rem] w-[9rem] py-2 text-xs md:text-base px-[0.5rem] border-[1px] rounded-md border-green-500 text-green-500">
                       <a href="https://021vicente-dev.github.io/Bio/" target="_blank">
                         <i className="bi bi-eye pr-1"></i>Visualizar

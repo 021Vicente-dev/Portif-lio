@@ -2,7 +2,7 @@ export const Home = () => {
   return (
     <div id="home" className="duration-700 bg-white dark:bg-neutral-900 bg-scroll">
       <div className="flex justify-around items-center py-16 border-b-[1.4px] border-neutral-200 dark:border-neutral-700 dark:border-b-[0.5px]">
-        <div className="w-full flex justify-center items-center flex-col ml-16 md:ml-40 lg:ml-0 xl:-ml-24">
+        <div className="w-full flex justify-center items-center flex-col max-[390px]:ml-8 ml-16 md:ml-40 lg:ml-0 xl:-ml-24">
           <h1 className="text-neutral-950 text-center text-4xl md:w-full xl:pl-10 xl:-ml-9 dark:text-slate-100">
             Olá, Bem vindo(a) ao meu portifólio!
           </h1>
