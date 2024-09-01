@@ -68,10 +68,10 @@ export const Sobre = () => {
         </div>
       </div>
       <div className="duration-700 bg-white dark:bg-neutral-950">
-        <div className="text-center font-lexend-regular text-5xl pt-3 pb-8 text-neutral-900 dark:text-neutral-100">
+        <div className="text-center font-lexend-regular text-3xl lg:text-5xl pt-3 pb-8 text-neutral-900 dark:text-neutral-100">
           <h1>Um Pouco Sobre Mim</h1>
         </div>
-        <div className="flex flex-row items-center gap-9 ml-14 px-8 w-11/12 pb-8">
+        <div className="flex flex-col xl:flex-row items-center gap-9 ml-4 md:ml-8 lg:ml-14 px-8 w-11/12 pb-8">
           <div className="">
             <p className="text-center py-8 px-5 border-[1px] border-neutral-400 rounded-2xl text-sm font-mono text-neutral-900 dark:text-neutral-50">
               Olá, meu nome é <strong>Ryan Vicente</strong> conhecido como
@@ -131,15 +131,14 @@ export const Sobre = () => {
             </p>
           </div>
         </div>
-        <div className="flex justify-between px-8 pb-8 gap-8">
-          <div className=" flex-col items-center w-2/4 text-center border-[1px] rounded-md border-neutral-300">
-            <h1 className="text-xl font-lexend-regular py-3 text-neutral-900 dark:text-neutral-100">
+        <div className="flex justify-between items-center flex-col lg:flex-row px-8 pb-8 gap-8">
+          <div className=" flex-col items-center w-11/12 lg:w-2/4 text-center border-[1px] rounded-md border-neutral-300">
+            <h1 className="lg:text-2xl text-xl font-lexend-regular py-3 text-neutral-900 dark:text-neutral-100">
               Minhas formação acadêmica
             </h1>
             <hr />
-            <div className="flex flex-col justify-center">
-              <div className="flex justify-center border-[1.6px] rounded-md my-3 p-1 mx-8">
-                <i className="bi bi-mortarboard lg:-ml-[12.7rem] lg:mr-36 border-[1.3px] rounded-md p-2 pt-1 text-4xl dark:text-neutral-100"></i>
+            <div className="flex flex-col justify-center lg:gap-4 xl:gap-0">
+              <div className="flex justify-center border-[1.6px] rounded-md lg:mt-10 xl:mt-14 my-3 p-1 mx-8">
                 <div>
                   <h2 className="text-xl font-lexend-regular text-neutral-900 dark:text-neutral-100">
                     MicroLins
@@ -150,7 +149,6 @@ export const Sobre = () => {
                 </div>
               </div>
               <div className="flex justify-center border-[1.6px] rounded-md my-3 p-1 mx-8">
-                <i className="bi bi-mortarboard lg:-ml-32 lg:mr-14 border-[1.3px] rounded-md p-2 pt-1 text-4xl dark:text-neutral-100"></i>
                 <div>
                   <h2 className="text-xl font-lexend-regular text-neutral-900 dark:text-neutral-100">
                     Udemy
@@ -161,7 +159,6 @@ export const Sobre = () => {
                 </div>
               </div>
               <div className="flex justify-center border-[1.6px] rounded-md my-3 p-1 mx-8">
-                <i className="bi bi-mortarboard lg:-ml-28 lg:mr-12 border-[1.3px] rounded-md p-2 pt-1 text-4xl dark:text-neutral-100"></i>
                 <div>
                   <h2 className="text-xl font-lexend-regular text-neutral-900 dark:text-neutral-100">
                     Udemy
@@ -171,8 +168,7 @@ export const Sobre = () => {
                   </p>
                 </div>
               </div>
-              <div className="flex justify-center border-[1.6px] rounded-md my-3 p-1 mx-8">
-                <i className="bi bi-mortarboard lg:-ml-52 lg:mr-40 border-[1.3px] rounded-md p-2 pt-1 text-4xl dark:text-neutral-100"></i>
+              <div className="flex justify-center border-[1.6px] rounded-md my-3 lg:mb-14 xl:mb-14 p-1 mx-8">
                 <div>
                   <h2 className="text-xl font-lexend-regular text-neutral-900 dark:text-neutral-100">
                     Senac/Firjan
@@ -184,30 +180,30 @@ export const Sobre = () => {
               </div>
             </div>
           </div>
-          <div className="border-[1px] rounded-md border-neutral-300 w-2/4">
+          <div className="border-[1px] rounded-md border-neutral-300 w-11/12 lg:w-2/4 lg:pb-9">
             <div className="text-center ">
-              <h1 className="text-2xl font-lexend-regular py-3 text-neutral-900 dark:text-neutral-100">Empresas nas quais ja prestei meus serviços</h1>
+              <h1 className="lg:text-2xl text-xl font-lexend-regular py-3 text-neutral-900 dark:text-neutral-100">Empresas nas quais ja prestei meus serviços</h1>
               <hr />
             </div>
             <div className="text-center flex flex-col gap-8 pt-8">
               <div className="flex flex-col gap-2">
                 <h3 className="text-xl font-lexend-medium dark:text-neutral-300">Black Network</h3>
-                <p className="text-xs font-lexend-light dark:text-neutral-300">
+                <p className="text-xs font-lexend-light px-3 dark:text-neutral-300">
                   Prestei meu serviço para desenvolver um front-end de um site
                   de venda de host em React e TailwindCss
                 </p>
               </div>
-              <div>
+              <div className="flex flex-col gap-2">
                 <h3 className="text-xl font-lexend-medium dark:text-neutral-300">Start Academy</h3>
                 <p className="text-xs px-5 font-lexend-light dark:text-neutral-300">Prestei meu serviço como desenvolvedor full stack desenvolvendo scripts e resolvendo bug&#39;s para esse servidor de Fivem</p>
               </div>
-              <div>
+              <div className="flex flex-col gap-2">
                 <h3 className="text-xl font-lexend-medium dark:text-neutral-300">Flash Shop</h3>
                 <p className="text-xs font-lexend-light dark:text-neutral-300">Prestei meu serviço como desenvolvedor full stack um empresa focada em Fivem</p>
               </div>
-              <div>
+              <div className="flex flex-col gap-2">
                 <h3 className="text-xl font-lexend-medium dark:text-neutral-300">SoSA Dev Group</h3>
-                <p className="text-xs font-lexend-light dark:text-neutral-300">Prestei meu serviço como desenvolvedor front-end um empresa focada em Fivem e aplicações webs</p>
+                <p className="text-xs font-lexend-light pb-8 dark:text-neutral-300">Prestei meu serviço como desenvolvedor front-end um empresa focada em Fivem e aplicações webs</p>
                 
               </div>
             </div>
