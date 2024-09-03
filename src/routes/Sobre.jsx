@@ -185,14 +185,6 @@ export const Sobre = () => {
               <h1 className="lg:text-2xl text-xl font-lexend-regular py-3 text-neutral-900 dark:text-neutral-100">Empresas nas quais ja prestei meus serviços</h1>
               <hr />
             </div>
-            <div className="text-center flex flex-col gap-8 pt-8">
-              <div className="flex flex-col gap-2">
-                <h3 className="text-xl font-lexend-medium dark:text-neutral-300">Black Network</h3>
-                <p className="text-xs font-lexend-light px-3 dark:text-neutral-300">
-                  Prestei meu serviço para desenvolver um front-end de um site
-                  de venda de host em React e TailwindCss
-                </p>
-              </div>
               <div className="flex flex-col gap-2">
                 <h3 className="text-xl font-lexend-medium dark:text-neutral-300">Start Academy</h3>
                 <p className="text-xs px-5 font-lexend-light dark:text-neutral-300">Prestei meu serviço como desenvolvedor full stack desenvolvendo scripts e resolvendo bug&#39;s para esse servidor de Fivem</p>
