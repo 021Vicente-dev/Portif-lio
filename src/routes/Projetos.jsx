@@ -244,6 +244,38 @@ export const Projetos = () => {
               </div>
             </div>
           </div>
+          <h1 className="text-center font-lexend-regular text-2xl dark:text-neutral-50 py-8">
+            TypeScript
+          </h1>
+          <div className="flex justify-center pb-8">
+            <div className="w-[45rem] h-72 overflow-y-auto p-4 border-[1px] border-neutral-600 rounded-md py-9">
+              <div className="grid grid-cols-1 gap-4">
+                <div className="flex flex-col gap-5 text-white text-center bg-gray-50 border-[1px] border-neutral-600 rounded px-2 py-3 dark:bg-neutral-900">
+                  <h1 className="text-neutral-950 font-lexend-regular text-xl dark:text-neutral-50">
+                    Buscador de cep
+                  </h1>
+                  <img
+                    className="items-center mx-4 rounded-md"
+                    src="https://cdn.discordapp.com/attachments/1172335701874974822/1280631508670873600/image.png?ex=66d8c888&is=66d77708&hm=59b99a37366d5cc80efd9757115940b9a4aa19503b9b9e9f5dc035cc0fdf6dd8&"
+                    alt=""
+                  />
+                  <p className="text-neutral-950 font-lexend-light pb-2 text-sm dark:text-neutral-100">Buscador de cep consulte seu endereço pelo seu cep de qualquer lugar</p>
+                  <div className="flex justify-center md:gap-5 gap-2">
+                    <button className="md:w-[13rem] w-[9rem] py-2 text-xs md:text-base px-[0.5rem] border-[1px] rounded-md border-green-500 text-green-500">
+                      <a href="https://front-end-conce.vercel.app/" target="_blank">
+                        <i className="bi bi-eye pr-1"></i>Visualizar
+                      </a>
+                    </button>
+                    <button className="md:w-[7.6rem] w-[9rem] text-xs md:text-base border-[1px] rounded-md border-blue-800 text-blue-800">
+                      <a href="https://github.com/021Vicente-dev/Front-end-Conce" target="_blank">
+                        <i className="bi bi-github pr-1"></i>Github
+                      </a>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
         <div className="duration-700 dark:bg-neutral-950">
           <Contatos />
