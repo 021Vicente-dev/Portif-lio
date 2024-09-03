@@ -95,12 +95,12 @@ export const Projetos = () => {
                   <p className="text-neutral-950 pb-5 font-lexend-light text-sm dark:text-neutral-100">uma pagina virtual para compras e encomendas</p>
                   <div className="flex md:gap-5 gap-2 max-[414px]:mt-[1.3rem] max-[390px]:mt-0">
                     <button className="md:w-[13rem] w-[9rem] py-2 text-xs md:text-base px-[0.5rem] border-[1px] rounded-md border-green-500 text-green-500">
-                      <a href="https://021vicente-dev.github.io/Bio/" target="_blank">
+                      <a href="https://021vicente-dev.github.io/Landing-Page/" target="_blank">
                         <i className="bi bi-eye pr-1"></i>Visualizar
                       </a>
                     </button>
                     <button className="md:w-[7.6rem] w-[9rem] text-xs md:text-base border-[1px] rounded-md border-blue-800 text-blue-800">
-                      <a href="https://github.com/021Vicente-dev/Bio" target="_blank">
+                      <a href="https://github.com/021Vicente-dev/Landing-Page" target="_blank">
                         <i className="bi bi-github pr-1"></i>Github
                       </a>
                     </button>
@@ -151,12 +151,12 @@ export const Projetos = () => {
                   <p className="text-neutral-950 font-lexend-light text-sm dark:text-neutral-100">Tela de Login ultilizada em sites</p>
                   <div className="flex md:gap-5 gap-2 max-[390px]:mt-[1.9rem]">
                     <button className="md:w-[13rem] w-[9rem] py-2 text-xs md:text-base px-[0.5rem] border-[1px] rounded-md border-green-500 text-green-500">
-                      <a href="https://021vicente-dev.github.io/Bio/" target="_blank">
+                      <a href="https://021vicente-dev.github.io/Login/" target="_blank">
                         <i className="bi bi-eye pr-1"></i>Visualizar
                       </a>
                     </button>
                     <button className="md:w-[7.6rem] w-[9rem] text-xs md:text-base border-[1px] rounded-md border-blue-800 text-blue-800">
-                      <a href="https://github.com/021Vicente-dev/Bio" target="_blank">
+                      <a href="https://github.com/021Vicente-dev/Login" target="_blank">
                         <i className="bi bi-github pr-1"></i>Github
                       </a>
                     </button>
@@ -174,12 +174,12 @@ export const Projetos = () => {
                   <p className="text-neutral-950 font-lexend-light text-sm dark:text-neutral-100">Tela de Cadastro ultilizada em sites</p>
                   <div className="flex md:gap-5 gap-2">
                     <button className="md:w-[13rem] w-[9rem] py-2 text-xs md:text-base px-[0.5rem] border-[1px] rounded-md border-green-500 text-green-500">
-                      <a href="https://021vicente-dev.github.io/Bio/" target="_blank">
+                      <a href="https://021vicente-dev.github.io/Cadastro/" target="_blank">
                         <i className="bi bi-eye pr-1"></i>Visualizar
                       </a>
                     </button>
                     <button className="md:w-[7.6rem] w-[9rem] text-xs md:text-base border-[1px] rounded-md border-blue-800 text-blue-800">
-                      <a href="https://github.com/021Vicente-dev/Bio" target="_blank">
+                      <a href="https://github.com/021Vicente-dev/Cadastro" target="_blank">
                         <i className="bi bi-github pr-1"></i>Github
                       </a>
                     </button>
@@ -207,12 +207,12 @@ export const Projetos = () => {
                   <p className="text-neutral-950 font-lexend-light pb-2 text-sm dark:text-neutral-100">Buscador de cep consulte seu endereço pelo seu cep de qualquer lugar</p>
                   <div className="flex md:gap-5 gap-2">
                     <button className="md:w-[13rem] w-[9rem] py-2 text-xs md:text-base px-[0.5rem] border-[1px] rounded-md border-green-500 text-green-500">
-                      <a href="https://021vicente-dev.github.io/Bio/" target="_blank">
+                      <a href="https://buscador-de-p4boo5oz6-pigmeu200s-projects.vercel.app/" target="_blank">
                         <i className="bi bi-eye pr-1"></i>Visualizar
                       </a>
                     </button>
                     <button className="md:w-[7.6rem] w-[9rem] text-xs md:text-base border-[1px] rounded-md border-blue-800 text-blue-800">
-                      <a href="https://github.com/021Vicente-dev/Bio" target="_blank">
+                      <a href="https://github.com/021Vicente-dev/Buscador-de-Cep" target="_blank">
                         <i className="bi bi-github pr-1"></i>Github
                       </a>
                     </button>
@@ -230,12 +230,12 @@ export const Projetos = () => {
                   <p className="text-neutral-950 font-lexend-light text-sm dark:text-neutral-100">Uma página onde mostramos quem somos e nossos aprendizados</p>
                   <div className="flex md:gap-5 gap-2 max-[390px]:mt-[1.9rem] max-[414px]:mt-[1.4rem]">
                     <button className="md:w-[13rem] w-[9rem] py-2 text-xs md:text-base px-[0.5rem] border-[1px] rounded-md border-green-500 text-green-500">
-                      <a href="https://021vicente-dev.github.io/Bio/" target="_blank">
+                      <a href="https://portif-lio-plum.vercel.app/" target="_blank">
                         <i className="bi bi-eye pr-1"></i>Visualizar
                       </a>
                     </button>
                     <button className="md:w-[7.6rem] w-[9rem] text-xs md:text-base border-[1px] rounded-md border-blue-800 text-blue-800">
-                      <a href="https://github.com/021Vicente-dev/Bio" target="_blank">
+                      <a href="https://github.com/021Vicente-dev/Portif-lio" target="_blank">
                         <i className="bi bi-github pr-1"></i>Github
                       </a>
                     </button>

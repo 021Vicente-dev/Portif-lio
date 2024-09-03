@@ -204,6 +204,5 @@ export const Sobre = () => {
 
         <Contatos />
       </div>
-    </div>
   );
 };
