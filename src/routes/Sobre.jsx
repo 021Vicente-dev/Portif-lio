@@ -180,29 +180,57 @@ export const Sobre = () => {
               </div>
             </div>
           </div>
-          <div className="border-[1px] rounded-md border-neutral-300 w-11/12 lg:w-2/4 lg:pb-9">
+          <div className="border-[1px] rounded-md border-neutral-300 w-11/12 lg:w-2/4 lg:pb-9 ">
             <div className="text-center ">
-              <h1 className="lg:text-2xl text-xl font-lexend-regular py-3 text-neutral-900 dark:text-neutral-100">Empresas nas quais ja prestei meus serviços</h1>
+              <h1 className="lg:text-2xl text-xl font-lexend-regular py-3 text-neutral-900 dark:text-neutral-100">
+                Empresas nas quais ja prestei meus serviços
+              </h1>
               <hr />
             </div>
-              <div className="flex flex-col gap-2">
-                <h3 className="text-xl font-lexend-medium dark:text-neutral-300">Start Academy</h3>
-                <p className="text-xs px-5 font-lexend-light dark:text-neutral-300">Prestei meu serviço como desenvolvedor full stack desenvolvendo scripts e resolvendo bug&#39;s para esse servidor de Fivem</p>
+            <div className="flex flex-col gap-4 ">
+              <div className="flex flex-col gap-2 text-center mt-4">
+                <h3 className="text-xl font-lexend-medium dark:text-neutral-300">
+                  Start Academy
+                </h3>
+                <p className="text-xs px-5 font-lexend-light pb-2 dark:text-neutral-300">
+                  Prestei meu serviço como desenvolvedor full stack
+                  desenvolvendo scripts e resolvendo bug&#39;s para esse
+                  servidor de Fivem
+                </p>
               </div>
-              <div className="flex flex-col gap-2">
-                <h3 className="text-xl font-lexend-medium dark:text-neutral-300">Flash Shop</h3>
-                <p className="text-xs font-lexend-light dark:text-neutral-300">Prestei meu serviço como desenvolvedor full stack um empresa focada em Fivem</p>
+              <div className="flex flex-col gap-2 text-center">
+                <h3 className="text-xl font-lexend-medium dark:text-neutral-300">
+                  Flash Shop
+                </h3>
+                <p className="text-xs font-lexend-light pb-2 dark:text-neutral-300">
+                  Prestei meu serviço como desenvolvedor full stack um empresa
+                  focada em Fivem
+                </p>
               </div>
-              <div className="flex flex-col gap-2">
-                <h3 className="text-xl font-lexend-medium dark:text-neutral-300">SoSA Dev Group</h3>
-                <p className="text-xs font-lexend-light pb-8 dark:text-neutral-300">Prestei meu serviço como desenvolvedor front-end um empresa focada em Fivem e aplicações webs</p>
-                
+              <div className="flex flex-col gap-2 text-center">
+                <h3 className="text-xl font-lexend-medium dark:text-neutral-300">
+                  SoSA Dev Group
+                </h3>
+                <p className="text-xs font-lexend-light pb-2 dark:text-neutral-300">
+                  Prestei meu serviço como desenvolvedor front-end um empresa
+                  focada em Fivem e aplicações webs
+                </p>
+              </div>
+              <div className="flex flex-col gap-2 text-center">
+                <h3 className="text-xl font-lexend-medium dark:text-neutral-300">
+                  Work Network&trade;
+                </h3>
+                <p className="text-xs font-lexend-light pb-5 lg:pb-20 dark:text-neutral-300">
+                  Prestei meu serviço como desenvolvedor front-end um empresa
+                  focada em Fivem
+                </p>
               </div>
             </div>
           </div>
         </div>
-
-        <Contatos />
       </div>
+
+      <Contatos />
+    </div>
   );
 };

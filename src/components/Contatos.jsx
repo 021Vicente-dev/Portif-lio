@@ -77,6 +77,7 @@ export const Contatos = () => {
             <i className="bi bi-discord duration-500 text-2xl cursor-pointer text-blue-800 hover:text-blue-600"></i>
           </a>
         </div>
+        <p className="dark:text-white text-center pt-4">©  Todos os direitos reservados há <strong>Vicente<strong className="text-purple-900">.dev</strong></strong>.</p>
       </div>
     </div>
   );
