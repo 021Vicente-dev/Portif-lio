@@ -70,7 +70,7 @@ export const Page_erro = () => {
 
         <div className="duration-700 dark:bg-neutral-950">
           <div className="flex justify-center py-[12rem] xl:py-[17.5rem]">
-            <img src="https://cdn.discordapp.com/attachments/1172335701874974822/1279748176378724414/bendy-text-404-error-page-not-found-with-magnifying-glass-removebg-preview.png?ex=66d591dd&is=66d4405d&hm=29f1f76644695910379d8f4a7813152f1d01514d9f8a03fac9b4e1c8c50cd60b&" alt="" />
+            <img src="https://cdn.discordapp.com/attachments/1284338854693703703/1284339565397540915/bendy-text-404-error-page-not-found-with-magnifying-glass-removebg-preview.png?ex=66e645ee&is=66e4f46e&hm=1987913baa1259cfa3d3074f2f6765e84075c3789b815dfabeedd77a0447672e&" alt="Imagem de erro 404" />
             
           </div>
           <div id="contatos">
