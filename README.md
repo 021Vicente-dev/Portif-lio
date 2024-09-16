@@ -1,8 +1,46 @@
-# React + Vite
+# Portifolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto desenvolvido com React que tem em base mostrar minhas habilidaes e um pouco mais sobre mim.
 
-Currently, two official plugins are available:
+Confira a aplicação em funcionamento:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**URL da aplicação:** https://portif-lio-plum.vercel.app/
+
+# Imagem da aplicação:
+
+![image](https://github.com/user-attachments/assets/4273eb98-6e33-4dad-a95a-02863eca9ca5)
+
+
+# Uso
+Após iniciar o projeto, você poderá:
+
+Ver sobre mim.
+Ver minhas habilidades.
+Ver quais empresas ja trabalhei.
+Formas de entrar em contato comigo.
+
+
+# Tecnologias
+
+***Este projeto foi construído utilizando as seguintes tecnologias:***
+
+**React** - Biblioteca JavaScript para construção de interfaces de usuário.
+
+**TailwindCSS** - Framework de CSS utilitário para estilização.
+
+**React Router** - Para roteamento e navegação entre páginas
+
+***Licença***
+
+© Todos os direitos reservados há Vicente.dev.
+
+
+# Contato
+Se você tiver dúvidas ou sugestões, entre em contato:
+
+Ryan Vicente - 021vicentedev@gmail.com
+
+GitHub: https://github.com/021Vicente-dev
+
+LinkedIn: https://www.linkedin.com/in/ryan-vicente-35b4a6326/
+
