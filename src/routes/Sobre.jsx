@@ -102,7 +102,7 @@ export const Sobre = () => {
 
           <img
             className="h-[30rem] rounded-3xl"
-            src="https://cdn.discordapp.com/attachments/1172335701874974822/1279395135964319785/image.png?ex=66d44912&is=66d2f792&hm=e7c5be8e601f9a84f3fef2ad13e5eba83bf8e77701b6fd8678c532fe64741675&"
+            src="https://cdn.discordapp.com/attachments/1284338854693703703/1285234320788815896/image.png?ex=66e9873c&is=66e835bc&hm=50aa265b1bd0be9aef0c6c0638e730375e0590d4770e61fd942bc25de9e7c20e&"
             alt=""
           />
           <div>

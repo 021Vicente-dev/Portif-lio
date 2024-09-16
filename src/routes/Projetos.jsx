@@ -89,7 +89,7 @@ export const Projetos = () => {
                   </h1>
                   <img
                     className="items-center mx-4 rounded-md"
-                    src="https://cdn.discordapp.com/attachments/1172335701874974822/1279395153483796541/image.png?ex=66d44916&is=66d2f796&hm=f199be2fc53b5cb4d9c9c1c9768cfe61341386c94694e86be08bb526d00241d1&"
+                    src="https://cdn.discordapp.com/attachments/1284338854693703703/1284339009400733747/image.png?ex=66e8e869&is=66e796e9&hm=9bbf3584024aec9d3170934587e3d4bade4979784ba57e7db0e409a34bf8af2f&"
                     alt=""
                   />
                   <p className="text-neutral-950 pb-5 font-lexend-light text-sm dark:text-neutral-100">uma pagina virtual para compras e encomendas</p>
@@ -112,7 +112,7 @@ export const Projetos = () => {
                   </h1>
                   <img
                     className="items-center mx-4 rounded-md"
-                    src="https://cdn.discordapp.com/attachments/1172335701874974822/1279395059074076763/image.png?ex=66d44900&is=66d2f780&hm=40de270154ee99b70d316439d9fa6c3632e4fe690581fb48f2cc9ebdfb0a4cf9&"
+                    src="https://cdn.discordapp.com/attachments/1284338854693703703/1284338997530857545/image.png?ex=66e8e866&is=66e796e6&hm=8969536d29c18171a431235d6c3bc73fb68c166590598be25bbec9c3c699ad60&"
                     alt=""
                   />
                   <p className="text-neutral-950 md:pb-6 font-lexend-light text-sm dark:text-neutral-100">Uma bio de redes sociais podendo conter vários links e informações</p>
@@ -145,7 +145,7 @@ export const Projetos = () => {
                   </h1>
                   <img
                     className="items-center mx-4 rounded-md"
-                    src="https://cdn.discordapp.com/attachments/1284338854693703703/1284338985858240595/image.png?ex=66e64564&is=66e4f3e4&hm=a3d9522f049f77bdc6c62e5cdcbed2261feef516389c0329aa816b213ee578f7&"
+                    src="https://cdn.discordapp.com/attachments/1284338854693703703/1284338985858240595/image.png?ex=66e8e864&is=66e796e4&hm=9b100e35fe0529453d4de0bed4e5212db9cf843cda2e7863c084873c6c0802e5&"
                     alt=""
                   />
                   <p className="text-neutral-950 font-lexend-light text-sm dark:text-neutral-100">Tela de Login ultilizada em sites</p>
@@ -168,7 +168,7 @@ export const Projetos = () => {
                   </h1>
                   <img
                     className="items-center mx-4 rounded-md"
-                    src="https://cdn.discordapp.com/attachments/1284338854693703703/1284338929306308669/image.png?ex=66e64556&is=66e4f3d6&hm=346296465d26f3340b0484930854ea79e7f5498d9042de831d01a1fed5ef6005&"
+                    src="https://cdn.discordapp.com/attachments/1284338854693703703/1284338929306308669/image.png?ex=66e8e856&is=66e796d6&hm=772c8de9427be24d817d4806188cff037b3d59ddd24fe4b312c8699fea2aab7e&"
                     alt=""
                   />
                   <p className="text-neutral-950 font-lexend-light text-sm dark:text-neutral-100">Tela de Cadastro ultilizada em sites</p>
@@ -201,7 +201,7 @@ export const Projetos = () => {
                   </h1>
                   <img
                     className="items-center mx-4 rounded-md"
-                    src="https://cdn.discordapp.com/attachments/1284338854693703703/1284338894971867146/image.png?ex=66e6454e&is=66e4f3ce&hm=ae36880753cca5ef1f9269746dee5a7fc10bbfa170c4864dd535e9583a840d19&"
+                    src="https://cdn.discordapp.com/attachments/1284338854693703703/1284338894971867146/image.png?ex=66e8e84e&is=66e796ce&hm=8fd4dbde2222a051a6e98e27fc25001b379c76dd0b7bbeaf40f4b9b4894705b8&"
                     alt=""
                   />
                   <p className="text-neutral-950 font-lexend-light pb-2 text-sm dark:text-neutral-100">Buscador de cep consulte seu endereço pelo seu cep de qualquer lugar</p>
@@ -224,7 +224,7 @@ export const Projetos = () => {
                   </h1>
                   <img
                     className="items-center mx-4 rounded-md"
-                    src="https://cdn.discordapp.com/attachments/1284338854693703703/1284339174601916538/image.png?ex=66e64591&is=66e4f411&hm=d815f884051a567de239b6fb4b25c4e3507d9a1dc9adacac9e96e1dfb9ad390b&"
+                    src="https://cdn.discordapp.com/attachments/1284338854693703703/1284339174601916538/image.png?ex=66e8e891&is=66e79711&hm=49741e08f7d74d2d727bed5b3c1eefa9ffa085a414a9fbf86b2daeeecbbd4f38&"
                     alt=""
                   />
                   <p className="text-neutral-950 font-lexend-light text-sm dark:text-neutral-100">Uma página onde mostramos quem somos e nossos aprendizados</p>
