@@ -5,7 +5,7 @@ import landingPage from "../../public/landingPage.png";
 import login from "../../public/login.png";
 import cadastro from "../../public/cadastro.png";
 import buscadordecep from "../../public/buscadordecep.png";
-import portifolio from "../../public/cadastro.png";
+import portifolio from "../../public/portifolio.png";
 
 export const Projetos = () => {
   const [darkMode, setDarkMode] = useState(false);
