@@ -2,7 +2,6 @@ import { useState } from "react";
 import { Contatos } from "../components/Contatos";
 import bio from "../../public/bio.png";
 import landingPage from "../../public/landingPage.png";
-import login from "../../public/login.png";
 import cadastro from "../../public/cadastro.png";
 import buscadordecep from "../../public/buscadordecep.png";
 import portifolio from "../../public/portifolio.png";
