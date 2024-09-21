@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Contatos } from "../components/Contatos";
+import bio from "../../public/bio.png";
 
 export const Projetos = () => {
   const [darkMode, setDarkMode] = useState(false);
@@ -112,7 +113,7 @@ export const Projetos = () => {
                   </h1>
                   <img
                     className="items-center mx-4 rounded-md"
-                    src="https://cdn.discordapp.com/attachments/1284338854693703703/1284338997530857545/image.png?ex=66e8e866&is=66e796e6&hm=8969536d29c18171a431235d6c3bc73fb68c166590598be25bbec9c3c699ad60&"
+                    src={bio}
                     alt=""
                   />
                   <p className="text-neutral-950 md:pb-6 font-lexend-light text-sm dark:text-neutral-100">Uma bio de redes sociais podendo conter vários links e informações</p>
