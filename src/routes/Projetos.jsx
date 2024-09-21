@@ -150,7 +150,7 @@ export const Projetos = () => {
                   </h1>
                   <img
                     className="items-center mx-4 rounded-md"
-                    src="https://cdn.discordapp.com/attachments/1284338854693703703/1284338997530857545/image.png?ex=66eed726&is=66ed85a6&hm=5b77e28c8e233f704d15a0dede3945e7cc3db9887c704432a1bc7e925b436550&"
+                    src="https://cdn.discordapp.com/attachments/1284338854693703703/1284338985858240595/image.png?ex=66eed724&is=66ed85a4&hm=31179c384272abf6f79ecd3c8b83baa18acf4df112ef0abaed424a3dbdc0207d&"
                     alt=""
                   />
                   <p className="text-neutral-950 font-lexend-light text-sm dark:text-neutral-100">Tela de Login ultilizada em sites</p>
