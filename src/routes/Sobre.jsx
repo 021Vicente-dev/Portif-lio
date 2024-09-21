@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Contatos } from "../components/Contatos";
+import image from "../../public/image.png";
 
 export const Sobre = () => {
   const [darkMode, setDarkMode] = useState(false);
@@ -102,7 +103,7 @@ export const Sobre = () => {
 
           <img
             className="h-[30rem] rounded-3xl"
-            src="https://cdn.discordapp.com/attachments/1284338854693703703/1285234320788815896/image.png?ex=66e9873c&is=66e835bc&hm=50aa265b1bd0be9aef0c6c0638e730375e0590d4770e61fd942bc25de9e7c20e&"
+            src={image}
             alt=""
           />
           <div>

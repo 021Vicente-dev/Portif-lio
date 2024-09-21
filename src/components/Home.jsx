@@ -1,3 +1,4 @@
+import image from "../../public/image.png";
 export const Home = () => {
   return (
     <div id="home" className="duration-700 bg-white dark:bg-neutral-900 bg-scroll">
@@ -18,7 +19,7 @@ export const Home = () => {
         <div className="lg:mr-28 xl:mr-0 w-3/12 py-12">
           <img
             className=" hidden lg:flex xl:-ml-36 rounded-l-full rounded-r-full"
-            src="https://cdn.discordapp.com/attachments/1284338854693703703/1285234320788815896/image.png?ex=66e9873c&is=66e835bc&hm=50aa265b1bd0be9aef0c6c0638e730375e0590d4770e61fd942bc25de9e7c20e&"
+            src={image}
             alt=""
           />
         </div>

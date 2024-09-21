@@ -1,6 +1,11 @@
 import { useState } from "react";
 import { Contatos } from "../components/Contatos";
 import bio from "../../public/bio.png";
+import landingPage from "../../public/landingPage.png";
+import login from "../../public/login.png";
+import cadastro from "../../public/cadastro.png";
+import buscadordecep from "../../public/buscadordecep.png";
+import portifolio from "../../public/cadastro.png";
 
 export const Projetos = () => {
   const [darkMode, setDarkMode] = useState(false);
@@ -90,7 +95,7 @@ export const Projetos = () => {
                   </h1>
                   <img
                     className="items-center mx-4 rounded-md"
-                    src="https://cdn.discordapp.com/attachments/1284338854693703703/1284339009400733747/image.png?ex=66e8e869&is=66e796e9&hm=9bbf3584024aec9d3170934587e3d4bade4979784ba57e7db0e409a34bf8af2f&"
+                    src={landingPage}
                     alt=""
                   />
                   <p className="text-neutral-950 pb-5 font-lexend-light text-sm dark:text-neutral-100">uma pagina virtual para compras e encomendas</p>
@@ -146,7 +151,7 @@ export const Projetos = () => {
                   </h1>
                   <img
                     className="items-center mx-4 rounded-md"
-                    src="https://cdn.discordapp.com/attachments/1284338854693703703/1284338985858240595/image.png?ex=66e8e864&is=66e796e4&hm=9b100e35fe0529453d4de0bed4e5212db9cf843cda2e7863c084873c6c0802e5&"
+                    src={login}
                     alt=""
                   />
                   <p className="text-neutral-950 font-lexend-light text-sm dark:text-neutral-100">Tela de Login ultilizada em sites</p>
@@ -169,7 +174,7 @@ export const Projetos = () => {
                   </h1>
                   <img
                     className="items-center mx-4 rounded-md"
-                    src="https://cdn.discordapp.com/attachments/1284338854693703703/1284338929306308669/image.png?ex=66e8e856&is=66e796d6&hm=772c8de9427be24d817d4806188cff037b3d59ddd24fe4b312c8699fea2aab7e&"
+                    src={cadastro}
                     alt=""
                   />
                   <p className="text-neutral-950 font-lexend-light text-sm dark:text-neutral-100">Tela de Cadastro ultilizada em sites</p>
@@ -202,7 +207,7 @@ export const Projetos = () => {
                   </h1>
                   <img
                     className="items-center mx-4 rounded-md"
-                    src="https://cdn.discordapp.com/attachments/1284338854693703703/1284338894971867146/image.png?ex=66e8e84e&is=66e796ce&hm=8fd4dbde2222a051a6e98e27fc25001b379c76dd0b7bbeaf40f4b9b4894705b8&"
+                    src={buscadordecep}
                     alt=""
                   />
                   <p className="text-neutral-950 font-lexend-light pb-2 text-sm dark:text-neutral-100">Buscador de cep consulte seu endereço pelo seu cep de qualquer lugar</p>
@@ -225,7 +230,7 @@ export const Projetos = () => {
                   </h1>
                   <img
                     className="items-center mx-4 rounded-md"
-                    src="https://cdn.discordapp.com/attachments/1284338854693703703/1284339174601916538/image.png?ex=66e8e891&is=66e79711&hm=49741e08f7d74d2d727bed5b3c1eefa9ffa085a414a9fbf86b2daeeecbbd4f38&"
+                    src={portifolio}
                     alt=""
                   />
                   <p className="text-neutral-950 font-lexend-light text-sm dark:text-neutral-100">Uma página onde mostramos quem somos e nossos aprendizados</p>
