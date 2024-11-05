@@ -95,7 +95,7 @@ export const Projetos = () => {
               <div className="grid grid-cols-2 gap-4">
                 <div className="flex flex-col gap-5 text-white text-center bg-gray-50 border-[1px] border-neutral-600 rounded px-2 py-3 dark:bg-neutral-900">
                   <h1 className="text-neutral-950 font-lexend-regular text-xl dark:text-neutral-50">
-                    Landing Page
+                    Landing Pagee
                   </h1>
                   <img
                     className="items-center mx-4 rounded-md"
