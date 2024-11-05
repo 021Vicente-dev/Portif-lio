@@ -221,9 +221,18 @@ export const Sobre = () => {
                 <h3 className="text-xl font-lexend-medium dark:text-neutral-300">
                   Work Network&trade;
                 </h3>
-                <p className="text-xs font-lexend-light pb-5 lg:pb-20 dark:text-neutral-300">
+                <p className="text-xs font-lexend-light pb-2  dark:text-neutral-300">
                   Prestei meu serviço como desenvolvedor front-end um empresa
                   focada em Fivem
+                </p>
+              </div>
+              <div className="flex flex-col gap-2 text-center">
+                <h3 className="text-xl font-lexend-medium dark:text-neutral-300">
+                LynX Lab
+                </h3>
+                <p className="text-xs font-lexend-light pb-5 lg:pb-20 dark:text-neutral-300">
+                  Prestei meu serviço como desenvolvedor front-end um empresa
+                  focada em Fivem e Designer
                 </p>
               </div>
             </div>
