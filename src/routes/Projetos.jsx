@@ -3,8 +3,13 @@ import { Contatos } from "../components/Contatos";
 import bio from "../../public/bio.png";
 import landingPage from "../../public/landingPage.png";
 import cadastro from "../../public/cadastro.png";
+import login from "../../public/login.png";
 import buscadordecep from "../../public/buscadordecep.png";
 import portifolio from "../../public/portifolio.png";
+import hud from "../../public/hud-focus.png";
+import hudc from "../../public/hudc-focus.png";
+import rotas from "../../public/rotass.png";
+import telamorte from "../../public/tela-de-morte.png";
 
 export const Projetos = () => {
   const [darkMode, setDarkMode] = useState(false);
@@ -150,7 +155,7 @@ export const Projetos = () => {
                   </h1>
                   <img
                     className="items-center mx-4 rounded-md"
-                    src="https://cdn.discordapp.com/attachments/1284338854693703703/1284338985858240595/image.png?ex=66eed724&is=66ed85a4&hm=31179c384272abf6f79ecd3c8b83baa18acf4df112ef0abaed424a3dbdc0207d&"
+                    src={login}
                     alt=""
                   />
                   <p className="text-neutral-950 font-lexend-light text-sm dark:text-neutral-100">Tela de Login ultilizada em sites</p>
@@ -244,6 +249,91 @@ export const Projetos = () => {
                         <i className="bi bi-github pr-1"></i>Github
                       </a>
                     </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <h1 className="text-center font-lexend-regular text-2xl dark:text-neutral-50 py-8">
+            Fivem
+          </h1>
+          <div className="flex justify-center pb-8">
+            <div className="w-[45rem] h-72 overflow-y-auto p-4 border-[1px] border-neutral-600 rounded-md py-9">
+              <div className="grid grid-cols-2 gap-4">
+                <div className="flex flex-col gap-5 text-white text-center bg-gray-50 border-[1px] border-neutral-600 rounded px-2 py-3 dark:bg-neutral-900">
+                  <h1 className="text-neutral-950 font-lexend-regular text-xl dark:text-neutral-50">
+                    Hud・Fron-End
+                  </h1>
+                  <img
+                    className="items-center mx-4 rounded-md"
+                    src={hud}
+                    alt=""
+                  />
+                  <p className="text-neutral-950 font-lexend-light pb-2 text-sm dark:text-neutral-100">Uma hud desenvolvida por mim para a cidade Focus Roleplay.</p>
+                  <div className="flex justify-center md:gap-5 gap-2">
+                    <button className="md:w-[13rem] w-[9rem] py-2 text-xs md:text-base px-[0.5rem] border-[1px] rounded-md border-green-500 text-green-500">
+                      <a href="https://cdn.discordapp.com/attachments/1284338854693703703/1303172413613146132/image.png?ex=672ac963&is=672977e3&hm=9943a90156fa4a78d210b46b8fc5a4949c1435c83ff8d95d9311987347f49475&" target="_blank">
+                        <i className="bi bi-eye pr-1"></i>Visualizar
+                      </a>
+                    </button>
+                    
+                  </div>
+                </div>
+                <div className="flex flex-col gap-5 text-white text-center bg-gray-50 border-[1px] border-neutral-600 rounded px-2 py-3 dark:bg-neutral-900">
+                  <h1 className="text-neutral-950 font-lexend-regular text-xl dark:text-neutral-50">
+                  Hud Veiculos・Fron-End
+                  </h1>
+                  <img
+                    className="items-center mx-4 rounded-md"
+                    src={hudc}
+                    alt=""
+                  />
+                  <p className="text-neutral-950 font-lexend-light text-sm dark:text-neutral-100">Uma hud para veiculos desenvolvida por mim para a cidade Focus Roleplay.</p>
+                  <div className="flex justify-center md:gap-5 gap-2 max-[390px]:mt-[1.9rem] max-[414px]:mt-[1.4rem]">
+                    <button className="md:w-[13rem] w-[9rem] py-2 text-xs md:text-base px-[0.5rem] border-[1px] rounded-md border-green-500 text-green-500 ">
+                      <a href="https://cdn.discordapp.com/attachments/1284338854693703703/1303172405643972708/image.png?ex=672ac961&is=672977e1&hm=ba01770467d358c52a2befc79ca2dfb2ca2f16b7ffa8702f7dd07f4ea5378aee&" target="_blank">
+                        <i className="bi bi-eye pr-1"></i>Visualizar
+                      </a>
+                    </button>
+                   
+                  </div>
+                </div>
+                <div className="flex flex-col gap-5 text-white text-center bg-gray-50 border-[1px] border-neutral-600 rounded px-2 py-3 dark:bg-neutral-900">
+                  <h1 className="text-neutral-950 font-lexend-regular text-xl dark:text-neutral-50">
+                  Rotas・Fron-End
+                  </h1>
+                  <img
+                    className="items-center mx-4 rounded-md"
+                    src={rotas}
+                    alt=""
+                  />
+                  <p className="text-neutral-950 font-lexend-light text-sm dark:text-neutral-100">Uma Front de Rotas desenvolvido por mim para iniciar rotas de diversos items</p>
+                  <div className="flex justify-center md:gap-5 gap-2 max-[390px]:mt-[1.9rem] max-[414px]:mt-[1.4rem]">
+                    <button className="md:w-[13rem] w-[9rem] py-2 text-xs md:text-base px-[0.5rem] border-[1px] rounded-md border-green-500 text-green-500">
+                      <a href="https://cdn.discordapp.com/attachments/1284338854693703703/1303172432689106945/image.png?ex=672ac967&is=672977e7&hm=8dc2888cab4f1feb400fd070462d0a92dc07b634cfc433c4bdb31f0e9015bbce&" target="_blank">
+                        <i className="bi bi-eye pr-1"></i>Visualizar
+                      </a>
+                    </button>
+                    
+                  </div>
+                </div>
+                <div className="flex flex-col gap-5 text-white text-center bg-gray-50 border-[1px] border-neutral-600 rounded px-2 py-3 dark:bg-neutral-900">
+                  <h1 className="text-neutral-950 font-lexend-regular text-xl dark:text-neutral-50">
+                  Tela de Morte・Fron-End
+                  </h1>
+                  <img
+                    className="items-center mx-4 rounded-md"
+                    src={telamorte}
+                    alt=""
+                  />
+                  <p className="text-neutral-950 font-lexend-light text-sm dark:text-neutral-100">Uma Tela de morte desenvolvida por mim, para mostrar que o player esta morto </p>
+                  <div className="flex justify-center md:gap-5 gap-2 max-[390px]:mt-[1.9rem] max-[414px]:mt-[1.4rem]">
+                    <button className="md:w-[13rem] w-[9rem] py-2 text-xs md:text-base px-[0.5rem] border-[1px] rounded-md border-green-500 text-green-500">
+                      <a href="https://cdn.discordapp.com/attachments/1284338854693703703/1303172426506571807/image.png?ex=672ac966&is=672977e6&hm=8b88b0214583dbdb42877818f8d1eadd1acda0104b0147e3ad46437016a0e69a&" target="_blank">
+                        <i className="bi bi-eye pr-1"></i>Visualizar
+                      </a>
+                    </button>
+                    
                   </div>
                 </div>
               </div>
