@@ -3,7 +3,6 @@ import { Contatos } from "../components/Contatos";
 import bio from "../../public/bio.png";
 import landingPage from "../../public/landingPage.png";
 import cadastro from "../../public/cadastro.png";
-import login from "../../public/login.png";
 import buscadordecep from "../../public/buscadordecep.png";
 import portifolio from "../../public/portifolio.png";
 import hud from "../../public/hud-focus.png";
@@ -95,7 +94,7 @@ export const Projetos = () => {
               <div className="grid grid-cols-2 gap-4">
                 <div className="flex flex-col gap-5 text-white text-center bg-gray-50 border-[1px] border-neutral-600 rounded px-2 py-3 dark:bg-neutral-900">
                   <h1 className="text-neutral-950 font-lexend-regular text-xl dark:text-neutral-50">
-                    Landing Pagee
+                    Landing Page
                   </h1>
                   <img
                     className="items-center mx-4 rounded-md"
@@ -155,7 +154,7 @@ export const Projetos = () => {
                   </h1>
                   <img
                     className="items-center mx-4 rounded-md"
-                    src={login}
+                    src="https://cdn.discordapp.com/attachments/1284338854693703703/1284338985858240595/image.png?ex=66eed724&is=66ed85a4&hm=31179c384272abf6f79ecd3c8b83baa18acf4df112ef0abaed424a3dbdc0207d&"
                     alt=""
                   />
                   <p className="text-neutral-950 font-lexend-light text-sm dark:text-neutral-100">Tela de Login ultilizada em sites</p>
