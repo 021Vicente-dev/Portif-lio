@@ -76,7 +76,7 @@ export const Sobre = () => {
           <div className="">
             <p className="text-center py-8 px-5 border-[1px] border-neutral-400 rounded-2xl text-sm font-mono text-neutral-900 dark:text-neutral-50">
               Olá, meu nome é <strong>Ryan Vicente</strong> conhecido como
-              <strong> Vicente.Dev</strong>, tenho 16 anos e sou um entusiasta e
+              <strong> Vicente.Dev</strong>, tenho 17 anos e sou um entusiasta e
               profissional em desenvolvimento web, com especialização também em
               aplicativos mobile. Desde criança, a tecnologia sempre foi uma das
               minhas maiores paixões. Minha curiosidade e vontade de entender
@@ -101,29 +101,25 @@ export const Sobre = () => {
             </p>
           </div>
 
-          <img
-            className="h-[30rem] rounded-3xl"
-            src={image}
-            alt=""
-          />
+          <img className="h-[30rem] rounded-3xl" src={image} alt="" />
           <div>
             <p className="text-center py-8 px-5 border-[1px] border-neutral-400 rounded-2xl text-sm font-mono text-neutral-900 dark:text-neutral-50">
               Minha trajetória educacional tem sido marcada por um forte
               compromisso com o aprendizado contínuo, o que me permite estar
-              sempre atualizado com as tendências e inovações do setor. No
-              próximo ano, estou animado para iniciar a faculdade de Engenharia
-              de Software. Vejo essa nova fase como uma oportunidade de
-              aprofundar ainda mais meus conhecimentos e me preparar para os
-              desafios do mercado de trabalho. Acredito que a combinação de
-              minha experiência prática, adquirida ao longo dos últimos anos,
-              com a formação acadêmica em Engenharia de Software, será crucial
-              para meu desenvolvimento como profissional completo e inovador.
-              Sou uma pessoa altamente motivada, sempre em busca de aprender
-              coisas novas e evoluir em minha carreira. Estou constantemente
-              explorando novas tecnologias, metodologias e abordagens para
-              aprimorar minhas habilidades e contribuir de forma significativa
-              em qualquer projeto do qual faça parte. Neste momento, estou
-              aberto a novas oportunidades, seja em projetos
+              sempre atualizado com as tendências e inovações do setor. no
+              momento estou realizando a minha primeira faculdade de muitas
+              Análise e Desenvolvimento de Sistemas (ADS). Vejo essa nova fase
+              como uma oportunidade de aprofundar ainda mais meus conhecimentos
+              e me preparar para os desafios do mercado de trabalho. Acredito
+              que a combinação de minha experiência prática, adquirida ao longo
+              dos últimos anos, com a formação acadêmica em Engenharia de
+              Software, será crucial para meu desenvolvimento como profissional
+              completo e inovador. Sou uma pessoa altamente motivada, sempre em
+              busca de aprender coisas novas e evoluir em minha carreira. Estou
+              constantemente explorando novas tecnologias, metodologias e
+              abordagens para aprimorar minhas habilidades e contribuir de forma
+              significativa em qualquer projeto do qual faça parte. Neste
+              momento, estou aberto a novas oportunidades, seja em projetos
               <strong>freelancers</strong> ou em uma
               <strong>contratação formal</strong>. Estou pronto para colaborar
               em iniciativas que me permitam continuar expandindo minhas
@@ -169,13 +165,23 @@ export const Sobre = () => {
                   </p>
                 </div>
               </div>
-              <div className="flex justify-center border-[1.6px] rounded-md my-3 lg:mb-14 xl:mb-14 p-1 mx-8">
+              <div className="flex justify-center border-[1.6px] rounded-md my-3 p-1 mx-8">
                 <div>
                   <h2 className="text-xl font-lexend-regular text-neutral-900 dark:text-neutral-100">
                     Senac/Firjan
                   </h2>
                   <p className="text-sm font-lexend-light dark:text-neutral-300">
                     Full Stack - JavaScript
+                  </p>
+                </div>
+              </div>
+              <div className="flex justify-center border-[1.6px] rounded-md my-3 lg:mb-14 xl:mb-14 p-1 mx-8">
+                <div>
+                  <h2 className="text-xl font-lexend-regular text-neutral-900 dark:text-neutral-100">
+                    Faculdade - Celso Lisboa
+                  </h2>
+                  <p className="text-sm font-lexend-light dark:text-neutral-300">
+                    Análise e Desenvolvimento de Sistemas - ADS
                   </p>
                 </div>
               </div>
@@ -228,7 +234,7 @@ export const Sobre = () => {
               </div>
               <div className="flex flex-col gap-2 text-center">
                 <h3 className="text-xl font-lexend-medium dark:text-neutral-300">
-                LynX Lab
+                  LynX Lab
                 </h3>
                 <p className="text-xs font-lexend-light pb-5 lg:pb-20 dark:text-neutral-300">
                   Prestei meu serviço como desenvolvedor front-end um empresa
