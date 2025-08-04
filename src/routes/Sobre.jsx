@@ -165,20 +165,10 @@ export const Sobre = () => {
                   </p>
                 </div>
               </div>
-              <div className="flex justify-center border-[1.6px] rounded-md my-3 p-1 mx-8">
-                <div>
-                  <h2 className="text-xl font-lexend-regular text-neutral-900 dark:text-neutral-100">
-                    Senac/Firjan
-                  </h2>
-                  <p className="text-sm font-lexend-light dark:text-neutral-300">
-                    Full Stack - JavaScript
-                  </p>
-                </div>
-              </div>
               <div className="flex justify-center border-[1.6px] rounded-md my-3 lg:mb-14 xl:mb-14 p-1 mx-8">
                 <div>
                   <h2 className="text-xl font-lexend-regular text-neutral-900 dark:text-neutral-100">
-                    Faculdade - Celso Lisboa
+                    Faculdade - Unigranrio - Afya
                   </h2>
                   <p className="text-sm font-lexend-light dark:text-neutral-300">
                     Análise e Desenvolvimento de Sistemas - ADS

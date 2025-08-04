@@ -53,28 +53,25 @@ export const Contatos = () => {
           <div className="text-center lg:justify-end ">
             <p className="text-center  pt-4 font-lexend-regular dark:text-white">
               <i className="bi bi-telephone text-black dark:text-white pr-2"></i>
-              : (21) 99528-2307
+              : (21) 98948-8914
             </p>
             <p>
               <p className="text-center text-base font-lexend-light dark:text-white">
                 <i className="bi bi-envelope-at text-black dark:text-white pr-2"></i>
-                : vicente.dev021@gmail.com
+                : desenvolvedorvicente@gmail.com
               </p>
             </p>
           </div>
         </div>
         <div className="flex justify-center lg:text-center ml-4 gap-4 dark:">
-          <a href="https://wa.me/5521995282307">
+          <a href="https://wa.me/5521989488914">
             <i className="bi bi-whatsapp duration-500 text-2xl cursor-pointer text-green-400 hover:text-green-600"></i>
           </a>
           <a href="https://github.com/021Vicente-dev">
             <i className="bi bi-github duration-500 text-2xl cursor-pointer text-neutral-950 dark:text-neutral-100 dark:hover:text-neutral-400 hover:text-neutral-800"></i>
           </a>
-          <a href="https://www.linkedin.com/in/ryan-vicente-35b4a6326/">
+          <a href="https://www.linkedin.com/in/ryan-vicente-22a533377/">
             <i className="bi bi-linkedin duration-500 text-2xl cursor-pointer text-blue-600 hover:text-blue-400"></i>
-          </a>
-          <a href="https://discord.gg/6zvKwSTxPQ">
-            <i className="bi bi-discord duration-500 text-2xl cursor-pointer text-blue-800 hover:text-blue-600"></i>
           </a>
         </div>
         <p className="dark:text-white text-center pt-4">©  Todos os direitos reservados há <strong>Vicente<strong className="text-purple-900">.dev</strong></strong>.</p>
