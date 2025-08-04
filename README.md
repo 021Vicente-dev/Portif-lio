@@ -38,9 +38,9 @@ Formas de entrar em contato comigo.
 # Contato
 Se você tiver dúvidas ou sugestões, entre em contato:
 
-Ryan Vicente - 021vicentedev@gmail.com
+Ryan Vicente - desenvolvedorvicente@gmail.com
 
 GitHub: https://github.com/021Vicente-dev
 
-LinkedIn: https://www.linkedin.com/in/ryan-vicente-35b4a6326/
+LinkedIn: https://www.linkedin.com/in/ryan-vicente-22a533377/
 
