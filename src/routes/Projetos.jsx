@@ -396,7 +396,7 @@ export const Projetos = () => {
                   />
                   <p className="text-neutral-950 font-lexend-light text-sm dark:text-neutral-100">
                     Uma Tela de morte desenvolvida por mim, para mostrar que o
-                    player esta morto{" "}
+                    player esta morto
                   </p>
                   <div className="flex justify-center md:gap-5 gap-2 max-[390px]:mt-[1.9rem] max-[414px]:mt-[1.4rem]">
                     <button className="md:w-[13rem] w-[9rem] py-2 text-xs md:text-base px-[0.5rem] border-[1px] rounded-md border-green-500 text-green-500">
